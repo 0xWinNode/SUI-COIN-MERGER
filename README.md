@@ -18,47 +18,6 @@ The Sui Coin Merger is a powerful tool designed for interacting with SUI network
 - Git
 - Node JS (v22)
 
-## Join My Telegram Channel
-```
-                                                          
-                      ...                                 
-                     .;:.                                 
-                    .;ol,.                                
-                   .;ooc:'                                
-            ..    .;ooccc:'.    ..                        
-          .',....'cdxlccccc;.....,'.                      
-         .;;..'';clolccccccc:,''..;;.                     
-        ':c'..':cccccccccccccc;...'c:.                    
-       ':cc,.'ccccccccccccccccc:..;cc:'                   
-    ...:cc;.':cccccccccccccccccc:..:cc:...                
-   .;';cc;.':;;:cccccccccccccc:;;;'.;cc,,;.               
-  .cc':c:.',.....;cccccccccc;.....,..:c:'c:               
-  ,x:'cc;.,'     .':cccccc:'.     ',.;cc':x'              
-  lO,'cc;.;,       .;cccc:.       ,;.;cc';0l              
- .o0;.;c;.,:'......',''''''......':,.;c;.:0l.             
- .lxl,.;,..;c::::;:,.    .,:;::::c;..,;.,oxl.             
- .lkxOl..  ..'..;::'..''..'::;..'..  ..c0xkl.             
-  .cKMx.        .;c:;:cc:;:c:.        .xMKc.              
-    ;KX:         ;o::l:;cc;o:.        ;KK;                
-     :KK:.       ,d,cd,'ol'o:       .:0K:                 
-      ;0NOl:;:loo;. ... .. .;ldlc::lkN0:                  
-       .lONNNKOx0Xd,;;'.,:,lKKkk0XNN0o.                   
-         .','.. .lX0doooodOXd.  .','.                     
-                 .,okkddxkd;.                             
-                    'oxxd;.                               
-   ........................................                              
-   .OWo  xNd lox  xxl Ald   xoc dakkkkkxsx.              
-   .OWo  o0W cXW  dM0 MMN   lNK laddKMNkso.               
-   .kMKoxsNN oWX  dW0 MMMWO lWK    axM0   .                
-   .OMWXNaMX dM0  kM0 MMKxNXKW0    axMk   .                 
-   .OMk  dWK oWX XWdx Mxx  XMMO    akMx   .                 
-   'OWo  dM0 'kNNXNNd DMD   OWk    aoWd   .                 
-   ........................................
-
-```                                           
-
-Anyway i create new telegram channel just for sharing bot or airdrop, join here
-[**https://t.me/skeldrophunt**](https://t.me/skeldrophunt).
 
 ## BOT FEATURE
 - Multi Account 
@@ -71,7 +30,7 @@ Anyway i create new telegram channel just for sharing bot or airdrop, join here
 ### Linux
 1. Clone project repo
    ```
-   git clone https://github.com/Widiskel/sui-coin-merger.git && cd sui-coin-merger
+   git clone https://github.com/0xWinNode/SUI-COIN-MERGER.git && cd SUI-COIN-MERGER
    ```
 2. Run
    ```
@@ -98,11 +57,11 @@ Anyway i create new telegram channel just for sharing bot or airdrop, join here
 1. Open your `Command Prompt` or `Power Shell`.
 2. Clone project repo
    ```
-   git clone https://github.com/Widiskel/sui-coin-merger.git
+   git clone https://github.com/0xWinNode/SUI-COIN-MERGER.git
    ```
    and cd to project dir
    ```
-   cd sui-coin-merger
+   cd SUI-COIN-MERGER
    ```
 3. Run 
    ```
@@ -144,12 +103,3 @@ To update bot follow this step :
 ## CONTRIBUTE
 
 Feel free to fork and contribute adding more feature thanks.
-
-## SUPPORT
-
-want to support me for creating another bot ?
-**star** my repo or buy me a coffee on
-
-EVM : `0x1f0ea6e0b3590e1ab6c12ea0a24d3d0d9bf7707d`
-
-SOLANA : `3tE3Hs7P2wuRyVxyMD7JSf8JTAmEekdNsQWqAnayE1CN`
